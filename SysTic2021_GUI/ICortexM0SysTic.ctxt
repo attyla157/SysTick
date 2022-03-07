@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ICortexM0SysTic
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ ICortexM0SysTic\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newCVR
+comment1.target=void\ setCVR(int)
+comment2.params=
+comment2.target=int\ getCVR()
+comment3.params=newRVR
+comment3.target=void\ setRVR(int)
+comment4.params=
+comment4.target=int\ getRVR()
+comment5.params=flag
+comment5.target=void\ setTickInt(boolean)
+comment6.params=
+comment6.target=boolean\ isTickIntFlag()
+comment7.params=flag
+comment7.target=void\ setEnableFlag(boolean)
+comment8.params=
+comment8.target=void\ clock()
+numComments=9

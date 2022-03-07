@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ImpulseSource
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ImpulseSource\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initialPeriod
+comment1.target=ImpulseSource(int)
+comment10.params=n
+comment10.target=void\ setBurstCount(int)
+comment2.params=
+comment2.target=ImpulseSource()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=il
+comment4.target=void\ addImpulsListener(ImpulseListener)
+comment5.params=il
+comment5.target=void\ removeImpulseListener(ImpulseListener)
+comment6.params=
+comment6.target=void\ on()
+comment7.params=
+comment7.target=void\ off()
+comment8.params=period
+comment8.target=void\ setPeriod(int)
+comment9.params=mode
+comment9.target=void\ setMode(GeneratorMode)
+numComments=11
